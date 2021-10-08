@@ -13,5 +13,5 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_INFI_MOBILE }}'
-          projectId: infi-mobile
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_INFI_V2 }}'
+          projectId: infi-v2
