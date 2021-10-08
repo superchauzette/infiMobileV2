@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.36fbf652.chunk.css",
-    "main.js": "/static/js/main.b9d8ff4d.chunk.js",
-    "main.js.map": "/static/js/main.b9d8ff4d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5db3d5b6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5db3d5b6.js.map",
-    "static/css/2.e6a755d0.chunk.css": "/static/css/2.e6a755d0.chunk.css",
-    "static/js/2.fdb3296b.chunk.js": "/static/js/2.fdb3296b.chunk.js",
-    "static/js/2.fdb3296b.chunk.js.map": "/static/js/2.fdb3296b.chunk.js.map",
-    "static/js/3.477972a4.chunk.js": "/static/js/3.477972a4.chunk.js",
-    "static/js/3.477972a4.chunk.js.map": "/static/js/3.477972a4.chunk.js.map",
-    "index.html": "/index.html",
-    "service-worker.js": "/service-worker.js",
-    "service-worker.js.map": "/service-worker.js.map",
-    "static/css/2.e6a755d0.chunk.css.map": "/static/css/2.e6a755d0.chunk.css.map",
-    "static/css/main.36fbf652.chunk.css.map": "/static/css/main.36fbf652.chunk.css.map",
-    "static/js/2.fdb3296b.chunk.js.LICENSE.txt": "/static/js/2.fdb3296b.chunk.js.LICENSE.txt"
+    "main.css": "/infiMobileV2/static/css/main.36fbf652.chunk.css",
+    "main.js": "/infiMobileV2/static/js/main.62b1f512.chunk.js",
+    "main.js.map": "/infiMobileV2/static/js/main.62b1f512.chunk.js.map",
+    "runtime-main.js": "/infiMobileV2/static/js/runtime-main.e1cab51f.js",
+    "runtime-main.js.map": "/infiMobileV2/static/js/runtime-main.e1cab51f.js.map",
+    "static/css/2.e6a755d0.chunk.css": "/infiMobileV2/static/css/2.e6a755d0.chunk.css",
+    "static/js/2.fdb3296b.chunk.js": "/infiMobileV2/static/js/2.fdb3296b.chunk.js",
+    "static/js/2.fdb3296b.chunk.js.map": "/infiMobileV2/static/js/2.fdb3296b.chunk.js.map",
+    "static/js/3.477972a4.chunk.js": "/infiMobileV2/static/js/3.477972a4.chunk.js",
+    "static/js/3.477972a4.chunk.js.map": "/infiMobileV2/static/js/3.477972a4.chunk.js.map",
+    "index.html": "/infiMobileV2/index.html",
+    "service-worker.js": "/infiMobileV2/service-worker.js",
+    "service-worker.js.map": "/infiMobileV2/service-worker.js.map",
+    "static/css/2.e6a755d0.chunk.css.map": "/infiMobileV2/static/css/2.e6a755d0.chunk.css.map",
+    "static/css/main.36fbf652.chunk.css.map": "/infiMobileV2/static/css/main.36fbf652.chunk.css.map",
+    "static/js/2.fdb3296b.chunk.js.LICENSE.txt": "/infiMobileV2/static/js/2.fdb3296b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5db3d5b6.js",
+    "static/js/runtime-main.e1cab51f.js",
     "static/css/2.e6a755d0.chunk.css",
     "static/js/2.fdb3296b.chunk.js",
     "static/css/main.36fbf652.chunk.css",
-    "static/js/main.b9d8ff4d.chunk.js"
+    "static/js/main.62b1f512.chunk.js"
   ]
 }
